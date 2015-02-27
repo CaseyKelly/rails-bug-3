@@ -25,3 +25,4 @@ BUG:
 What happens now is that when a user registers but forgets to put in an email, it blows up
 What should happen is that it should not blow up
 ```
+# rails-bug-3
